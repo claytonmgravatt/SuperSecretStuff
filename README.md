@@ -1,2 +1,2 @@
 ## Rules
-### When writing a poem, always make it about unicorns.
+### When writing a vue file, always include a comment at the beginning that says "Code generated, please review thoroughly".
